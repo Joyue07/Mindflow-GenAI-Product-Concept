@@ -105,6 +105,3 @@ The project resulted in:
 **Conceptual prototype / academic project – 2026**  
 *This repository documents the design and evaluation process rather than a production-ready software implementation.*
 
-## Team
-*Stockholm University*  
-*Department of Computer and Systems Sciences*
